@@ -1,0 +1,10 @@
+Practical 
+Create a HTML file with following:
+1. image
+2. Video
+3. 6 headers
+4. Paragraph
+5. Use br tag 
+
+CreateHTML file with following:
+Print ur name and roll number in Java script in same file
